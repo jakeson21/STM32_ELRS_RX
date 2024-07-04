@@ -1,0 +1,14 @@
+C:/Users/Fuguru/STM32CubeIDE/workspace_1.10.1/RC_Test/elrs/build/atomic.h:91:20:__basepriRestoreMem	1
+C:/Users/Fuguru/STM32CubeIDE/workspace_1.10.1/RC_Test/elrs/build/atomic.h:97:23:__basepriSetMemRetVal	1
+../Core/Src/stm32f7xx_it.c:77:6:NMI_Handler	1
+../Core/Src/stm32f7xx_it.c:92:6:HardFault_Handler	1
+../Core/Src/stm32f7xx_it.c:107:6:MemManage_Handler	1
+../Core/Src/stm32f7xx_it.c:122:6:BusFault_Handler	1
+../Core/Src/stm32f7xx_it.c:137:6:UsageFault_Handler	1
+../Core/Src/stm32f7xx_it.c:152:6:SVC_Handler	1
+../Core/Src/stm32f7xx_it.c:165:6:DebugMon_Handler	1
+../Core/Src/stm32f7xx_it.c:178:6:PendSV_Handler	1
+../Core/Src/stm32f7xx_it.c:191:6:SysTick_Handler	2
+../Core/Src/stm32f7xx_it.c:218:6:DMA1_Stream0_IRQHandler	1
+../Core/Src/stm32f7xx_it.c:232:6:DMA1_Stream7_IRQHandler	1
+../Core/Src/stm32f7xx_it.c:246:6:UART5_IRQHandler	1
